@@ -40,7 +40,7 @@ Parâmetros:
 * **password** (obrigatório): senha do usuário.
 
 - **Header**
-    Authorization: Bearer <JWT>
+    Authorization: Bearer JWT
 
 Retorno.
 
@@ -78,7 +78,7 @@ Cadastra um novo produto na API.
 * **category** (obrigatório): ID da categoria do produto.
 
 - **Header**
-    Authorization: Bearer <JWT>
+    Authorization: Bearer JWT
 
 ## PUT /api/products/:id
 
@@ -101,4 +101,4 @@ Parâmetros:
 * **id** (obrigatório): ID do produto a ser excluído.
 
 - **Header**
-    Authorization: Bearer <JWT>
+    Authorization: Bearer JWT
