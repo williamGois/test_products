@@ -4,11 +4,11 @@ Esta API é utilizada para gerenciar produtos. É possível realizar as operaç�
 
 ## Tecnologias usadas
 
-- Node.js
-- Express
-- MongoDB
-- Mongoose
-- Jest
+- [Node.js](https://nodejs.org/)
+- [Express](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/) 
+- [Mongoose](https://mongoosejs.com/) 
+- [Jest](https://jestjs.io/) 
 
 ## Instalação
 
