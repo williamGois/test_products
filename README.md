@@ -20,7 +20,7 @@ Esta API é utilizada para gerenciar produtos. É possível realizar as operaç�
 
 ### Endpoints
 
-#### POST /api/auth/register
+## POST /api/auth/register
 
 Cadastra um novo usuário na API.
 
